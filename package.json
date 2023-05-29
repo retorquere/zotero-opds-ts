@@ -30,7 +30,7 @@
   "dependencies": {
     "compressing": "^1.5.1",
     "esbuild": "^0.15.16",
-    "replace-in-file": "^6.3.2"
+    "replace-in-file": "^7.0.1"
   },
   "devDependencies": {
     "release-it": "^15.5.0",
